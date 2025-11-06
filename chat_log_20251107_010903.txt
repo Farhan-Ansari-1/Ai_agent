@@ -1,0 +1,12 @@
+You: hello 
+AI: Hello there! How can I help you today?
+
+You: i am great i just checking you how you response because i made you with the help of gemini ao
+AI: That's wonderful to hear! And that's a very interesting thought.
+
+To give you the accurate information, I am a large language model, trained by Google.
+
+You're right to connect me with Gemini, though! Gemini is also a very powerful and capable AI model developed by Google. So, in a way, you could say we're from the same "family."
+
+It's great that you're exploring and testing how different AI models work. Is there anything specific you'd like to ask or try out?
+
