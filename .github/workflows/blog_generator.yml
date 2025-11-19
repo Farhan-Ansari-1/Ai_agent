@@ -7,6 +7,10 @@ on:
 
 jobs:
   build-and-publish:
+    # Give the job permissions to write to the repository
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
