@@ -1,0 +1,13 @@
+# Secrets
+# Ignore the file containing environment variables and API keys.
+.env
+
+# Virtual Environment
+# Ignore the virtual environment folder.
+.venv/
+venv/
+
+# Python cache files
+# Ignore compiled Python files and cache folders.
+__pycache__/
+*.pyc
