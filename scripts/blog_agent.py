@@ -3,6 +3,7 @@ import google.generativeai as genai
 from dotenv import load_dotenv
 from datetime import datetime
 import subprocess
+import random
 
 def configure_git(username, email):
     """
